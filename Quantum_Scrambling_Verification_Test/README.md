@@ -3,12 +3,6 @@
 
 Reference: [Verified quantum information scrambling [arXiv:1806.02807]](https://arxiv.org/abs/1806.02807)
 
-
-
-## BASIC IDEA
-
-Verify scrambling in terms of many-body teleportation fidelity.
-
 ![Wormhole](https://github.com/hannahaih/QISA/blob/main/Quantum_Scrambling_Verification_Test/pics/wormhole.png)
 
 ## IMPLEMENTATION
